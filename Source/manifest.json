@@ -1,9 +1,9 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"name": "For Funsies",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
-	"content_scripts": 
+	"description": "Replaces the text 'for ritual purposes' with 'for funsies'.",
+	"content_scripts":
 	[
 		{
 			"matches": ["*://*/*"],
